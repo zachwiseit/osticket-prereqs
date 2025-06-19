@@ -167,3 +167,71 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 35
 
 <img width="1440" alt="OST_45" src="https://github.com/user-attachments/assets/2ce308c3-f3ce-4d98-9652-95922f30bf68" />
+
+36
+
+<img width="1440" alt="OST_46" src="https://github.com/user-attachments/assets/a4c54807-7d32-40e0-b4a8-ea418b42904d" />
+
+37
+
+<img width="1440" alt="OST_47" src="https://github.com/user-attachments/assets/39d80ea2-128a-40e0-84fe-516dc53c1e3a" />
+
+38
+
+<img width="1440" alt="OST_48" src="https://github.com/user-attachments/assets/ecdfb75e-8c15-418d-a814-1d58e668589b" />
+
+39
+
+<img width="1440" alt="OST_49" src="https://github.com/user-attachments/assets/fbe55284-d515-4639-9ec3-c787faf41833" />
+
+40
+
+<img width="1440" alt="OST_51" src="https://github.com/user-attachments/assets/4e7ad52c-e0ec-45c7-8650-4a70fdeefc8d" />
+
+41
+
+<img width="1440" alt="OST_52" src="https://github.com/user-attachments/assets/40118b83-dbb4-49d5-a574-caa026d63fa1" />
+
+42
+
+<img width="1440" alt="OST_54" src="https://github.com/user-attachments/assets/ffc1cf64-a419-4f8d-8ce2-33a6406f5104" />
+
+43
+
+<img width="1440" alt="OST_55" src="https://github.com/user-attachments/assets/b8932edd-f90c-48a4-9340-6ce0b1a0113b" />
+
+44
+
+<img width="1440" alt="OST_56" src="https://github.com/user-attachments/assets/d35cb158-61e5-46f2-ab04-4ad9ddd01971" />
+
+45
+
+<img width="1440" alt="OST_57" src="https://github.com/user-attachments/assets/acaee770-6515-46ab-ae7f-703bd5f8f0e2" />
+
+46
+
+<img width="1440" alt="OST_58" src="https://github.com/user-attachments/assets/1a90f059-60a0-40b8-ba5f-065a437a51f5" />
+
+47
+
+<img width="1440" alt="OST_59" src="https://github.com/user-attachments/assets/8c89542e-2889-4914-bcbc-15e4a3235f50" />
+
+48
+
+<img width="1440" alt="OST_60" src="https://github.com/user-attachments/assets/a8bd362c-48a8-4086-b429-e7270e9dcc38" />
+
+49
+
+<img width="1440" alt="OST_61" src="https://github.com/user-attachments/assets/3fba78ec-842f-41c3-bcf6-441bbb5bea20" />
+
+50
+
+<img width="1440" alt="OST_62" src="https://github.com/user-attachments/assets/d44d8b65-bb71-4f68-ac58-a6c8377409ff" />
+
+51
+
+<img width="1440" alt="OST_63" src="https://github.com/user-attachments/assets/235781a4-349c-432c-bf25-d0c63878f4c4" />
+
+52
+
+<img width="1440" alt="OST_64" src="https://github.com/user-attachments/assets/deb1cdab-119d-4838-8133-d1b8a6f0e3f2" />
