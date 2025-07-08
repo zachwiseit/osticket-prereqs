@@ -28,91 +28,91 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-1
+1. First step ofcourse is to log into Azure and create your virtual machines. 
+   You will need to creache a "Virtual machine name" and choose a "Region". 
 
 <img width="1440" alt="OST_1" src="https://github.com/user-attachments/assets/83241932-5a8c-480f-bd2c-1764de12eb34" />
 
-2
+2 Scroll down to "image" and choose Windows 10 Pro. 
+  Then for "Size" choose which ever option yopu like as long as the option has atleast 2 vcpus. 
   
 ![image](https://github.com/user-attachments/assets/b9026065-2a61-406e-a5cb-b90806dc3da5)
 
-3
+3 At the bottom of the page create a "USername", "Password", and confirm licensing before you click "Next: Disks>". 
 
 ![image](https://github.com/user-attachments/assets/e33d2e70-8e1b-454f-9bee-0deb33235e06)
 
-4
+4 Click "Next: Networking>"
 
 ![image](https://github.com/user-attachments/assets/afd1d0d8-8811-4c52-9219-c3cbd3e58166)
 
-5
+5 Click "Reveiw + create" 
 
 ![image](https://github.com/user-attachments/assets/41b10f99-876c-4449-8091-b5c31c249ff1)
 
-6
+6 Here you will see the final costs for your VM. At the bottom click "Create". 
 
 ![image](https://github.com/user-attachments/assets/6599a392-28ef-4e8c-9e73-9d9d8f2a6868)
 
-7
+7 Now Azure will begin to build your tour Virtual Machine and the necessary assets. 
 
 ![image](https://github.com/user-attachments/assets/2edcba34-2c58-40cd-873d-5685b1a3edee)
 
-8
+8 Now that the deployment is complete go back to the Home page and click on "Virtual Machines".
 
 ![image](https://github.com/user-attachments/assets/d132af97-44db-4bb5-8f36-43c4928b4bc3)
 
-9
+9 Here you will need to copy your VM's "Public IP address". 
 
 ![image](https://github.com/user-attachments/assets/0da6cc6f-c9f0-48d8-a65c-9cb108889641)
 
-10
+10 Next start up the Windows App and click Add PC
 
 <img width="1440" alt="OST_11" src="https://github.com/user-attachments/assets/5d9467a9-7e49-4d72-b747-814d75887baa" />
 
-11
+11 PC name: Public IP address 
+   Friendly name: Your choice
+   Click add 
 
 <img width="1440" alt="OST_12" src="https://github.com/user-attachments/assets/4c9038bc-b263-40d1-a06c-87b03cfb1332" />
 
-12
+12 Put in the usname and password you created and click continue 
 
 <img width="1440" alt="OST_17" src="https://github.com/user-attachments/assets/24acb3fa-57cb-468d-9b91-3c23816aeca6" />
 
-13
+13 Confirm you're coneecting the the correct address and click continue. 
 
 <img width="1440" alt="OST_18" src="https://github.com/user-attachments/assets/cc4868d4-a4fe-4143-9cdb-73be2d5bfef0" />
 
-14
+14 Click no for everything (These setting dont matter) and then continue. 
 
 <img width="1440" alt="OST_19" src="https://github.com/user-attachments/assets/dd7e08ec-0ba5-4347-b010-5459ca76949c" />
 
-15
+15 Now that your are at the desktop open up Microsoft Edge. 
 
 <img width="1440" alt="OST_20" src="https://github.com/user-attachments/assets/7a1efa65-f03f-4c0e-9f00-a7fe81da9f22" />
 
-16
+16 Copy this link (Add later) and Download osTicket-Installation.
 
 <img width="1440" alt="OST_22" src="https://github.com/user-attachments/assets/5f958162-6143-41f8-9143-cb9709bc2ad2" />
 
-17
-
-<img width="1440" alt="OST_23" src="https://github.com/user-attachments/assets/6e70434d-cc66-42f4-8530-b1615bfb967f" />
-
-18
+18 At the top Right click Downloads and Open downloads folder. 
 
 <img width="1440" alt="OST_24" src="https://github.com/user-attachments/assets/cdba79f1-0d88-4bbf-ae88-964666c2e7e9" />
 
-19
+19 Move the zipp file to the Desktop. 
 
 <img width="1440" alt="OST_25" src="https://github.com/user-attachments/assets/e7018d98-d06b-464c-a738-aa01c0f1b1df" />
 
-20
+20 Right click the zipped file and Extract all
 
 <img width="1440" alt="OST_26" src="https://github.com/user-attachments/assets/092c5d48-d096-406d-92b7-ded06b9270da" />
 
-21
+21 Now select your prefered extraction destination and click extract. 
 
 <img width="1440" alt="OST_27" src="https://github.com/user-attachments/assets/baa8f711-746c-4604-9208-40ad5375ca98" />
 
-22
+22 Now click on the 
 
 <img width="1440" alt="OST_28" src="https://github.com/user-attachments/assets/a6fcb3be-348d-47bb-b139-f091db1ef2f1" />
 
