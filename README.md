@@ -112,79 +112,75 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_27" src="https://github.com/user-attachments/assets/baa8f711-746c-4604-9208-40ad5375ca98" />
 
-22 Now click on the 
+22 Now that the folder is extracted you need to install/enable IIS(Internet Information Services) in WIndows with CGI(Common Gateway Interface) 
 
 <img width="1440" alt="OST_28" src="https://github.com/user-attachments/assets/a6fcb3be-348d-47bb-b139-f091db1ef2f1" />
 
-23
+23 To do this first opne uo the Control panel from the search bar. 
 
 <img width="1440" alt="OST_29" src="https://github.com/user-attachments/assets/108e4eb3-8bd1-4b43-b9a3-55b30581e1a8" />
 
-24
+24 Click on Programs.
 
 <img width="1440" alt="OST_31" src="https://github.com/user-attachments/assets/3ca052c2-69f6-4090-9b2d-07caf2639e5a" />
 
-25
+25 On the left click "Turn Windows features on or off". 
 
 <img width="1440" alt="OST_33" src="https://github.com/user-attachments/assets/4c28c064-9778-4e87-8bf0-ff45efe80ac4" />
 
-26
+26 Scroll down to "Internet Information Service", check the box next to i, and click the addition simble next to it.
 
 <img width="1440" alt="OST_34" src="https://github.com/user-attachments/assets/da0c8b54-2aba-4cde-8c85-d73e7087f7f7" />
 
-27
+27 From there expand "World Wide Web services".
 
 <img width="1440" alt="OST_36" src="https://github.com/user-attachments/assets/f22ea474-4f6d-4e7a-a2bf-8e6777e84a5a" />
 
-28
+28 Expand "Application Development Features" as well.
 
 <img width="1440" alt="OST_37" src="https://github.com/user-attachments/assets/cb6f5b87-36d4-4e9c-9d02-27ce8cb17a73" />
 
-29
+29 Now check the box next to CGI to enable Comon Gateway Interface. 
 
 <img width="1440" alt="OST_38" src="https://github.com/user-attachments/assets/2f787854-6160-4e9e-90a1-d38e2fa71ee4" />
 
-30
+30 Click Ok and it will begig to install the web server and when it is done click close.  
 
 <img width="1440" alt="OST_40" src="https://github.com/user-attachments/assets/9008feac-92a2-4155-8069-a3ad6077ed3b" />
 
-31
-
-<img width="1440" alt="OST_41" src="https://github.com/user-attachments/assets/50d668f9-92ab-4d73-91f0-39e5c9de20b9" />
-
-32
+32 Now if you enter 127.0.0.1 into the search bar this web page will load show that CGI and IIS are active. 
 
 <img width="1440" alt="OST_42" src="https://github.com/user-attachments/assets/6645ff69-5437-42dc-8eb2-0115ffab862f" />
 
-33
+33 Next you need to install PHP manager for IIS from the Osticket-Installation-Files folder.
 
 <img width="1440" alt="OST_43" src="https://github.com/user-attachments/assets/44ae048e-743e-458f-8488-82cae5e1cf16" />
 
-34
+34 Go into that folder and click PHPManagerForIIS_V1.5.0
 
 <img width="1440" alt="OST_44" src="https://github.com/user-attachments/assets/9bc0eb4b-2ca2-41bc-9137-de3d5558ae71" />
 
-35
+35 click next 
 
 <img width="1440" alt="OST_45" src="https://github.com/user-attachments/assets/2ce308c3-f3ce-4d98-9652-95922f30bf68" />
 
-36
+36  click I agree and Next 
 
 <img width="1440" alt="OST_46" src="https://github.com/user-attachments/assets/a4c54807-7d32-40e0-b4a8-ea418b42904d" />
 
-37
+37 CLick Yes to allow to make changes and after it is installed click close. 
 
 <img width="1440" alt="OST_47" src="https://github.com/user-attachments/assets/39d80ea2-128a-40e0-84fe-516dc53c1e3a" />
 
-38
+38 From the same Folder install the Rewrite Module. 
 
 <img width="1440" alt="OST_48" src="https://github.com/user-attachments/assets/ecdfb75e-8c15-418d-a814-1d58e668589b" />
 
-39
+39 After you click on the Rewrite Module click install 
 
 <img width="1440" alt="OST_49" src="https://github.com/user-attachments/assets/fbe55284-d515-4639-9ec3-c787faf41833" />
 
-40
+40 After it is installed click finish. 
 
 <img width="1440" alt="OST_51" src="https://github.com/user-attachments/assets/4e7ad52c-e0ec-45c7-8650-4a70fdeefc8d" />
 
