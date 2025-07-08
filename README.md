@@ -92,7 +92,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_20" src="https://github.com/user-attachments/assets/7a1efa65-f03f-4c0e-9f00-a7fe81da9f22" />
 
-16 Copy this link (Add later) and Download osTicket-Installation.
+16 Copy this link https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0 and Download osTicket-Installation.
 
 <img width="1440" alt="OST_22" src="https://github.com/user-attachments/assets/5f958162-6143-41f8-9143-cb9709bc2ad2" />
 
