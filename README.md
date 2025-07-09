@@ -257,59 +257,61 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_70" src="https://github.com/user-attachments/assets/520e9463-12fd-4135-8cd1-5bf54c075037" />
 
-60 Click Finish. 
+60 Check the Launch Confiiguration Wizard box and click Finish. 
 
 <img width="1440" alt="OST_71" src="https://github.com/user-attachments/assets/3554a836-0cd2-4dbd-b853-6ec06e652a6e" />
 
-61
+61 CLick next 
 
 <img width="1440" alt="OST_72" src="https://github.com/user-attachments/assets/25a0cac3-4be7-4cf1-ad1a-068d7327e115" />
 
-62
+62 Check Standard Configuration and click next 
 
 <img width="1440" alt="OST_73" src="https://github.com/user-attachments/assets/ab372994-2943-43f3-bf27-e6e60f076f40" />
 
-63
+63 Click next 
 
 <img width="1440" alt="OST_74" src="https://github.com/user-attachments/assets/e0978be9-ef50-4451-8d45-dcd6e03aa138" />
 
-64
+64 Type in a password thats simple for this scenario like "root". It is very important be sure to write it down. 
 
 <img width="1440" alt="OST_75" src="https://github.com/user-attachments/assets/8ab15f36-e10c-4af6-8c6d-67ae4dc1d812" />
 
-65
+65 Click Execute 
 
 <img width="1440" alt="OST_78" src="https://github.com/user-attachments/assets/c39b7374-676c-4b3a-a001-8003321bec9a" />
 
-66
+66 Click FInihs and now the Database is ready to go. 
 
 <img width="1440" alt="OST_80" src="https://github.com/user-attachments/assets/fd302fc7-1413-40ea-805f-b6bdf428f671" />
 
-67
+67 Now you need to open ISS up as and Admin. 
+   In the Windows search bar and search for Internet Information Services(IIS)
 
 <img width="1440" alt="OST_81" src="https://github.com/user-attachments/assets/1865ee21-96ef-4257-9657-e79e17d5f011" />
 
-68
+68 Right click and run as administrator
 
 <img width="1440" alt="OST_83" src="https://github.com/user-attachments/assets/53397af3-6ae7-4f75-878e-760536499a1c" />
 
-69
+69 Now register PHP from within IIS. This will make the webserver aware of the exixtence of PHP on the computer.
+   Open PHP Manager.
 
 <img width="1440" alt="OST_84" src="https://github.com/user-attachments/assets/e44f09d2-47c3-4787-af41-d49eb04f5948" />
 
-70
+70 Click Register new PHP version 
 
 <img width="1440" alt="OST_85" src="https://github.com/user-attachments/assets/a9630d5c-aea6-4bb5-bd3c-6342c6b2dda3" />
 
-71
+71 Click the three dotted button next to the search bar to browse for the file. 
 
 <img width="1440" alt="OST_86" src="https://github.com/user-attachments/assets/8b6a1de5-ce4b-4fd4-8dc9-8a454a313d2e" />
 
-72
+72 Scroll donw to Windows (c:) then click the PHP file created earlier. 
 
 <img width="1440" alt="OST_87" src="https://github.com/user-attachments/assets/9d3dc196-8c53-444e-8cac-f8ed3cfe98c6" />
 
-73
+73 
 
 <img width="1440" alt="OST_88" src="https://github.com/user-attachments/assets/65c383f1-e236-4a5b-ad47-090322ea40ac" />
 
