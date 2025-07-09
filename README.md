@@ -551,26 +551,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_157" src="https://github.com/user-attachments/assets/e7237cc9-4758-4112-bb09-32127a706788" />
 
-136 
+136 If you want to check go back into HeidiSQL right click osTicket and click refresh. 
+    This will show all the different tables that were created in the database. 
 
 <img width="1440" alt="OST_158" src="https://github.com/user-attachments/assets/be547c4a-12c0-415b-a1cf-3e1df0c15182" />
 
-137
-
-<img width="1440" alt="OST_159" src="https://github.com/user-attachments/assets/72e727f7-0ff7-4cb5-9ee5-65b94418fdf6" />
-
-138
+138 This link http://localhost/osTicket/scp/login.php will take you to the log in page to sign in under different users. 
+    Try loging in as admin and with the password created earlier. 
 
 <img width="1440" alt="OST_161" src="https://github.com/user-attachments/assets/68c3207c-bd35-4c01-95ed-aec035b05764" />
 
-139
+139 There is one ticket created (the install ticket) but this you will veiw and hand tickets. 
 
 <img width="1440" alt="OST_162" src="https://github.com/user-attachments/assets/ce7854b1-d239-462a-b425-c39ed963c5a2" />
 
-140
-
-<img width="1440" alt="OST_164" src="https://github.com/user-attachments/assets/b8bed719-1d27-4a39-a238-d1c2c6eeb3fd" />
-
-141
+141 This link http://localhost/osTicket/ will take you to the page to sign in and submit tickets as a user.
 
 <img width="1440" alt="OST_166" src="https://github.com/user-attachments/assets/c9152c8b-2554-4b61-96c9-64bbe0de0ddf" />
