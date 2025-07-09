@@ -184,43 +184,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_51" src="https://github.com/user-attachments/assets/4e7ad52c-e0ec-45c7-8650-4a70fdeefc8d" />
 
-41
+41 Next you need to create a directory on the C drive named PHP.
+   Right click on the windows Icon and and open FIle Explorer.
 
 <img width="1440" alt="OST_52" src="https://github.com/user-attachments/assets/40118b83-dbb4-49d5-a574-caa026d63fa1" />
 
-42
+42 Open Windows (c:)and create a new folder.
 
 <img width="1440" alt="OST_54" src="https://github.com/user-attachments/assets/ffc1cf64-a419-4f8d-8ce2-33a6406f5104" />
 
-43
+43 Name it PHP. 
 
 <img width="1440" alt="OST_55" src="https://github.com/user-attachments/assets/b8932edd-f90c-48a4-9340-6ce0b1a0113b" />
 
-44
+44 Now from the "osTicket-Installation_Files" Folder unzip "php-7.3.8-nts-Win32-VC15-x86.zip".
 
 <img width="1440" alt="OST_56" src="https://github.com/user-attachments/assets/d35cb158-61e5-46f2-ab04-4ad9ddd01971" />
 
-45
+45 Right click "php-7.3.8-nts-Win32-VC15-x86.zip" and Extract All.
 
 <img width="1440" alt="OST_57" src="https://github.com/user-attachments/assets/acaee770-6515-46ab-ae7f-703bd5f8f0e2" />
 
-46
+46 Click Browse.
 
 <img width="1440" alt="OST_58" src="https://github.com/user-attachments/assets/1a90f059-60a0-40b8-ba5f-065a437a51f5" />
 
-47
+47 Scroll down to Windows (C:) and select PHP.
 
 <img width="1440" alt="OST_59" src="https://github.com/user-attachments/assets/8c89542e-2889-4914-bcbc-15e4a3235f50" />
 
-48
+48 Now click Select Folder.
 
 <img width="1440" alt="OST_60" src="https://github.com/user-attachments/assets/a8bd362c-48a8-4086-b429-e7270e9dcc38" />
 
-49
+49 Click Extract and it will begin to unzip everything to the PHP folder. 
 
 <img width="1440" alt="OST_61" src="https://github.com/user-attachments/assets/3fba78ec-842f-41c3-bcf6-441bbb5bea20" />
 
-50
+50 
 
 <img width="1440" alt="OST_62" src="https://github.com/user-attachments/assets/d44d8b65-bb71-4f68-ac58-a6c8377409ff" />
 
