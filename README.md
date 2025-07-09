@@ -311,77 +311,66 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_87" src="https://github.com/user-attachments/assets/9d3dc196-8c53-444e-8cac-f8ed3cfe98c6" />
 
-73 
+73 Click on th php-cgi executable. 
 
 <img width="1440" alt="OST_88" src="https://github.com/user-attachments/assets/65c383f1-e236-4a5b-ad47-090322ea40ac" />
 
-74
+74 After clicking it if your screen looks like this you can press ok and continue. 
 
 <img width="1440" alt="OST_89" src="https://github.com/user-attachments/assets/48c3a5f7-8774-48dc-acd1-a1faeb3878b9" />
 
-75
-
-<img width="1440" alt="OST_90" src="https://github.com/user-attachments/assets/eebc3ac7-9453-4a01-a93d-9a1e3b625cb0" />
-
-76
+76 Now reload IIS to the right under "Manage Server" 
 
 <img width="1440" alt="OST_92" src="https://github.com/user-attachments/assets/ad4084a6-f65f-43b3-8c88-192fb8557bd8" />
 
-77
+77 Click Stop and then Start. This will Reload ISS. 
 
 <img width="1440" alt="OST_93" src="https://github.com/user-attachments/assets/685d20e7-d830-42a5-bbd4-8057c79e7937" />
 
-78
-
+78 Next you need to install osTicket v1.15.8 from the Installation Files and copy the "upload"  folder into "c:\inetpub\wwwroot"
+   Right click osTicket v1.15.8 and click extract all. 
+   
 <img width="1440" alt="OST_94" src="https://github.com/user-attachments/assets/25d7088f-27d5-4d2b-8bf8-2dee86cfff69" />
 
-79
+79 Click Extract
 
 <img width="1440" alt="OST_95" src="https://github.com/user-attachments/assets/cca04f16-e4db-45dc-a917-bae976e2adf6" />
 
-80
+80 Wait for the file to copy. 
 
 <img width="1440" alt="OST_96" src="https://github.com/user-attachments/assets/d9af155a-d559-4943-af98-1a1c4385eea2" />
 
-81
+81 Now that it is complete open up the osTicket v1.15.8.
 
 <img width="1440" alt="OST_97" src="https://github.com/user-attachments/assets/c7dfd826-76c3-410c-9c89-8d91750b9c59" />
 
-82
+82 Open inetpub
 
 <img width="1440" alt="OST_98" src="https://github.com/user-attachments/assets/02fed33e-6744-4025-839a-3e9cceb4f623" />
 
-83
+83 Open wwwroot
 
 <img width="1440" alt="OST_99" src="https://github.com/user-attachments/assets/f4d9e2a5-30a4-4b38-9e04-f9b2e2b913da" />
 
-84
+84 Copy the upload file from osTicket-v1.15.8
 
 <img width="1440" alt="OST_100" src="https://github.com/user-attachments/assets/4fbd26bd-02e0-44df-9a20-18d488332dea" />
 
-85
+85 Paste it into wwwroot
 
 <img width="1440" alt="OST_102" src="https://github.com/user-attachments/assets/7c1c0ff8-cf4b-42a4-a285-fd455ffec5ab" />
 
-86
-
-<img width="1440" alt="OST_103" src="https://github.com/user-attachments/assets/a59befab-d6a6-44c6-8fc6-ca85e5bd93b7" />
-
-87
+87 Right click upload and raname the file to "osTicket".
 
 <img width="1440" alt="OST_104" src="https://github.com/user-attachments/assets/afc4adc4-43aa-458d-8cbd-a810dfe1c9c5" />
 
-88
+88 Exactly like this DO NOT name it something else.
 
 <img width="1440" alt="OST_105" src="https://github.com/user-attachments/assets/0a589b51-0e50-4c36-acf8-e5e3b50ed8d8" />
 
-89
+89 In osTicket-vm Home stop and start the sever again. 
 
 <img width="1440" alt="OST_106" src="https://github.com/user-attachments/assets/c9976918-7639-4011-b92e-6e94abdc3658" />
-
-90
-
-<img width="1440" alt="OST_107" src="https://github.com/user-attachments/assets/30c21597-d752-4786-8b8b-7ea077d2bf98" />
 
 91
 
