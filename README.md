@@ -221,43 +221,43 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_61" src="https://github.com/user-attachments/assets/3fba78ec-842f-41c3-bcf6-441bbb5bea20" />
 
-50 
+50 Now you can see everything in PHP that will be necessary for later.
 
 <img width="1440" alt="OST_62" src="https://github.com/user-attachments/assets/d44d8b65-bb71-4f68-ac58-a6c8377409ff" />
 
-51
+51 Next you need to install VC_redist.x86 from the "osTicket-Installation-Files" folder.
 
 <img width="1440" alt="OST_63" src="https://github.com/user-attachments/assets/235781a4-349c-432c-bf25-d0c63878f4c4" />
 
-52
+52 Click VC_redist.x86, agreed to the license, and click install. 
 
 <img width="1440" alt="OST_64" src="https://github.com/user-attachments/assets/deb1cdab-119d-4838-8133-d1b8a6f0e3f2" />
 
-53
+53 After installation is successful click close. 
 
 <img width="1440" alt="OST_65" src="https://github.com/user-attachments/assets/99456c1c-1649-4247-ae20-052bf365302b" />
 
-54
+54 Next install mysql-5.5.62-win32 (The data base where all the data will be stored).
 
 <img width="1440" alt="OST_66" src="https://github.com/user-attachments/assets/f9d61bab-b5b9-4aac-9847-e346c733204b" />
 
-56
+56 Click on mysql-5.5.62-win32 then click next. 
 
 <img width="1440" alt="OST_67" src="https://github.com/user-attachments/assets/1c0bb468-5844-4aad-9e58-9a632d442b9b" />
 
-57
+57 Accept the terms and click Next.
 
 <img width="1440" alt="OST_68" src="https://github.com/user-attachments/assets/d60df1e6-bebb-4499-b0f8-29358ac14150" />
 
-58
+58 Choose Typical Installation.
 
 <img width="1440" alt="OST_69" src="https://github.com/user-attachments/assets/c41102f3-94cf-462b-8c8c-cb38debadf63" />
 
-59
+59 CLick Install.
 
 <img width="1440" alt="OST_70" src="https://github.com/user-attachments/assets/520e9463-12fd-4135-8cd1-5bf54c075037" />
 
-60
+60 Click Finish. 
 
 <img width="1440" alt="OST_71" src="https://github.com/user-attachments/assets/3554a836-0cd2-4dbd-b853-6ec06e652a6e" />
 
