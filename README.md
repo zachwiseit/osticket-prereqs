@@ -372,119 +372,117 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_106" src="https://github.com/user-attachments/assets/c9976918-7639-4011-b92e-6e94abdc3658" />
 
-91
+91 In IIS click the drop down arrow to the left of "Sites" then the arrow for "Default Web Site" and the "osTicket" file.
 
 <img width="1440" alt="OST_108" src="https://github.com/user-attachments/assets/9d42f84a-5e40-4eb0-b373-b59800d9adab" />
 
-92
+92 On the right under Manafe Folder click "Browse *:80".
 
 <img width="1440" alt="OST_109" src="https://github.com/user-attachments/assets/9835ac3a-a148-4c91-8289-63252f0f56d4" />
 
-93
+93 Clicking that will load the OS Ticket site like this. Also some of the extensions are not enabled. Changing that is the next step. 
 
 <img width="1440" alt="OST_110" src="https://github.com/user-attachments/assets/b49a91e2-aa29-42d1-8aea-f475172a61b3" />
 
-94
-
+94 Go back to IIS click sites, click Default and then osTicket.
+   
 <img width="1440" alt="OST_111" src="https://github.com/user-attachments/assets/17d8944b-3a47-4b5a-b6ab-9752d6513901" />
 
-95
+95 From there double-click PHP Manager.
+   In PHP Manager click Enable or Disable an extension.
 
 <img width="1440" alt="OST_112" src="https://github.com/user-attachments/assets/7f56ccc8-3ff4-44d6-bf89-f3ea66c85ffa" />
 
-96
-
+96 RIght click and enable these three extensions. 
+   php_imap.dll
 <img width="1440" alt="OST_113" src="https://github.com/user-attachments/assets/f10ed9ba-6db2-4a89-b0a8-8c1e46bef8de" />
 
-97
+97 php_intl.dll
 
 <img width="1440" alt="OST_114" src="https://github.com/user-attachments/assets/0caaf462-f60d-4a85-a0ae-4e84a14cd0f4" />
 
-98
+98 php_opcache.dll
 
 <img width="1440" alt="OST_115" src="https://github.com/user-attachments/assets/7fffb4ce-9e58-4d5b-9edc-de7fcecc1049" />
 
-99
+99 Now at the top you can see all the ones that are enabled.
 
 <img width="1440" alt="OST_116" src="https://github.com/user-attachments/assets/baaf7981-e173-4ca7-8426-05569a6e5348" />
 
-100
+100 Back at the web page you wont see the changes until you refresh the web page.
 
 <img width="1440" alt="OST_117" src="https://github.com/user-attachments/assets/f3e2fd3d-5b0b-4438-889a-97e051fc80a7" />
 
-101
+101 After the refresh you will see the changes and they should be enabled like this. 
 
 <img width="1440" alt="OST_118" src="https://github.com/user-attachments/assets/59136578-1b5c-4d74-9f22-162e06c16457" />
 
-102
-
-<img width="1440" alt="OST_119" src="https://github.com/user-attachments/assets/9708bf11-213c-4156-b777-847b236d3eb9" />
-
-103
-
+103 Now you need to rename ost-config.php 
+    Go into the osTicket file.
 <img width="1440" alt="OST_120" src="https://github.com/user-attachments/assets/3950816a-8655-458d-8a20-4afa1403f20e" />
 
-104
+104 From there open "include"
 
 <img width="1440" alt="OST_121" src="https://github.com/user-attachments/assets/f373252a-1d2b-4f9b-ac68-a5a428262213" />
 
-105
+105 In that file find ost-sampleconfig.php
 
 <img width="1440" alt="OST_123" src="https://github.com/user-attachments/assets/425fe263-5f67-4d79-ae9a-d28dbe3fca78" />
 
-106
+106 Right click ost-sampleconfig.php and rename it to "ost-config.php". 
 
 <img width="1440" alt="OST_124" src="https://github.com/user-attachments/assets/907d5204-63e6-46f7-a96b-b79b52cf94b3" />
 
-107
+107 Make sure there are NO errors in the name. 
 
 <img width="1440" alt="OST_125" src="https://github.com/user-attachments/assets/050b3fb9-646f-4b24-835b-41ad3fb4ca45" />
 
-108
+108 Now you need to assign permissions to ost-config.php
+    Right click ost-config.php and click properties 
 
 <img width="1440" alt="OST_126" src="https://github.com/user-attachments/assets/1d38e4ca-e1b1-47c3-b06f-5fcfac354f78" />
 
-109
+109 From there go to Security and then to Advance. 
 
 <img width="1440" alt="OST_127" src="https://github.com/user-attachments/assets/906731f7-c5c0-4905-9ac4-933cbc621530" />
 
-110
+110 Click "Disable inheritance" and "Remove all inherited permissions from this object".
 
 <img width="1440" alt="OST_128" src="https://github.com/user-attachments/assets/14960bb6-cf71-4cf8-8306-06a5b37e9f7e" />
 
-111
+111 From there click "Add". 
 
 <img width="1440" alt="OST_129" src="https://github.com/user-attachments/assets/deda4a36-c3fb-4079-9918-a217ef5031d8" />
 
-112
+112 Click "Select a principal"
 
 <img width="1440" alt="OST_130" src="https://github.com/user-attachments/assets/df1ae14a-6068-40e0-979e-ba02233e4a65" />
 
-113
+113 For object name type "Everyone", click "Chenk Name" and "OK". 
 
 <img width="1440" alt="OST_131" src="https://github.com/user-attachments/assets/16197915-eb16-4e66-b352-3cf3ba1c815f" />
 
-114
+114 Ceck Full control and click ok. 
 
 <img width="1440" alt="OST_133" src="https://github.com/user-attachments/assets/c6c6df4c-72ad-4813-b081-ddbe39c25148" />
 
-115
+115 Your permission entrie should look like this. As long as it does click Apply.
 
 <img width="1440" alt="OST_135" src="https://github.com/user-attachments/assets/975bf9b4-5c70-4857-bd53-3c7c2c7a2801" />
 
-116
+116 Click OK for ost-config.php Properties. 
 
 <img width="1440" alt="OST_137" src="https://github.com/user-attachments/assets/c45f3a2c-8b42-44b1-a525-4ace40c55b7a" />
 
-117
+117 Go back to the osTicket Website and click Continue at the bottum. 
 
 <img width="1440" alt="OST_138" src="https://github.com/user-attachments/assets/26216979-4088-406e-8759-51a7977dea4d" />
 
-118
+118 Now fill out the information for Helpdesk Name: and Default email. )This information doesnt need to be specific.)
 
 <img width="1440" alt="OST_139" src="https://github.com/user-attachments/assets/898a1de2-f0e3-46c5-839b-34c68ffd9d7c" />
-
-119
+ 
+119 
 
 <img width="1440" alt="OST_140" src="https://github.com/user-attachments/assets/bcf18614-2911-49bd-b0ae-2c3e776a3b69" />
 
