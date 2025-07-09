@@ -482,11 +482,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_139" src="https://github.com/user-attachments/assets/898a1de2-f0e3-46c5-839b-34c68ffd9d7c" />
  
-119 
+119 Fill out the following information as well. This can also be anything but the email addresses do need to be different. 
 
 <img width="1440" alt="OST_140" src="https://github.com/user-attachments/assets/bcf18614-2911-49bd-b0ae-2c3e776a3b69" />
 
-120
+120 
 
 <img width="1440" alt="OST_141" src="https://github.com/user-attachments/assets/b3630832-3e77-43cd-a0e5-c04fdf8d8479" />
 
