@@ -483,74 +483,75 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1440" alt="OST_139" src="https://github.com/user-attachments/assets/898a1de2-f0e3-46c5-839b-34c68ffd9d7c" />
  
 119 Fill out the following information as well. This can also be anything but the email addresses do need to be different. 
+    Next you need to log into the MySQL database. 
 
 <img width="1440" alt="OST_140" src="https://github.com/user-attachments/assets/bcf18614-2911-49bd-b0ae-2c3e776a3b69" />
 
-120 
+120 Go back to osTicket-Installation-Files
 
 <img width="1440" alt="OST_141" src="https://github.com/user-attachments/assets/b3630832-3e77-43cd-a0e5-c04fdf8d8479" />
 
-121
+121 Open HeidiSQL_12.3.0.6589_Setup
 
 <img width="1440" alt="OST_142" src="https://github.com/user-attachments/assets/d9d2a3f8-d63d-402c-8723-2b8b10aadf21" />
 
-122
+122 Accept the aggreement and click next. 
 
 <img width="1440" alt="OST_143" src="https://github.com/user-attachments/assets/03ccda87-ad84-4a1f-86cc-1660b5bc410b" />
 
-123
+123 Next 
 
 <img width="1440" alt="OST_144" src="https://github.com/user-attachments/assets/21d9168d-7ac0-4271-b9a1-f4354a0a8ac1" />
 
-124
+124 Next 
 
 <img width="1440" alt="OST_145" src="https://github.com/user-attachments/assets/25d0bd75-bdc3-4723-a7b3-917955ed8e69" />
 
-125
+125 Install 
 
 <img width="1440" alt="OST_146" src="https://github.com/user-attachments/assets/a2743d85-6582-4ea6-b3d9-9b148371e078" />
 
-126
+126 Check the Launch HeidSQL box is checked then click finish. 
 
 <img width="1440" alt="OST_147" src="https://github.com/user-attachments/assets/0b8aaab9-e9bc-468b-9077-8247ebc8b6c4" />
 
-127
+127 Skip
 
 <img width="1440" alt="OST_148" src="https://github.com/user-attachments/assets/79b8f9d5-29ee-46b1-8b7b-9dc622ebca03" />
 
-128
+128 In the session manager cick new 
 
 <img width="1440" alt="OST_149" src="https://github.com/user-attachments/assets/95b70e91-7946-4d8c-a3be-0547aa194eed" />
 
-129
+129 Now put in the User: and Password: you created and press Open. 
 
 <img width="1440" alt="OST_150" src="https://github.com/user-attachments/assets/c4ff9948-3150-4938-963d-d0f2c4d030d3" />
 
-130
+130 Right click Unnamed, click Create New, and then Database. 
 
 <img width="1440" alt="OST_152" src="https://github.com/user-attachments/assets/28f537c2-59b0-499c-a08e-86e5c0a58724" />
 
-131
+131 The name needs to be exactly "osTicket" then click OK. 
 
 <img width="1440" alt="OST_153" src="https://github.com/user-attachments/assets/11fe5d79-479e-4812-926a-e0b589273220" />
 
-132
+132 Now you can see that it was created and will be utilized later on. 
 
 <img width="1440" alt="OST_154" src="https://github.com/user-attachments/assets/ed42e509-9f4e-41f1-aec0-e1feb3a2ae1f" />
 
-133
+133 Back on the osTicket webpage in the Database Settings secction fill out the remaining information. 
+    MySQL: Database 
+    MySQL: Username 
+    MySQL: Password
+    Then Install now 
 
 <img width="1440" alt="OST_155" src="https://github.com/user-attachments/assets/84d6ca1e-758d-42e6-ab51-e8972a65f18d" />
 
-134
-
-<img width="1440" alt="OST_156" src="https://github.com/user-attachments/assets/c90ab4e0-cb9f-4f17-8726-e43ec9838ca0" />
-
-135
+135 After the installation you will be shown this screen showing it was successfull.
 
 <img width="1440" alt="OST_157" src="https://github.com/user-attachments/assets/e7237cc9-4758-4112-bb09-32127a706788" />
 
-136
+136 
 
 <img width="1440" alt="OST_158" src="https://github.com/user-attachments/assets/be547c4a-12c0-415b-a1cf-3e1df0c15182" />
 
