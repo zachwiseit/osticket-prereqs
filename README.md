@@ -28,17 +28,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-1. First step ofcourse is to log into Azure and create your virtual machines. 
-   You will need to creache a "Virtual machine name" and choose a "Region". 
+1. First step of course is to log into Azure and create your virtual machines. 
+   You will need to create a "Virtual machine name" and choose a "Region". 
 
 <img width="1440" alt="OST_1" src="https://github.com/user-attachments/assets/83241932-5a8c-480f-bd2c-1764de12eb34" />
 
 2 Scroll down to "image" and choose Windows 10 Pro. 
-  Then for "Size" choose which ever option yopu like as long as the option has atleast 2 vcpus. 
+  Then for "Size" choose whichever option you like as long as the option has at least 2 vcpus. 
   
 ![image](https://github.com/user-attachments/assets/b9026065-2a61-406e-a5cb-b90806dc3da5)
 
-3 At the bottom of the page create a "USername", "Password", and confirm licensing before you click "Next: Disks>". 
+3 At the bottom of the page create a "Username", "Password", and confirm licensing before you click "Next: Disks>". 
 
 ![image](https://github.com/user-attachments/assets/e33d2e70-8e1b-454f-9bee-0deb33235e06)
 
@@ -54,7 +54,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/6599a392-28ef-4e8c-9e73-9d9d8f2a6868)
 
-7 Now Azure will begin to build your tour Virtual Machine and the necessary assets. 
+7 Now Azure will begin to build your your Virtual Machine and the necessary assets. 
 
 ![image](https://github.com/user-attachments/assets/2edcba34-2c58-40cd-873d-5685b1a3edee)
 
@@ -76,15 +76,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_12" src="https://github.com/user-attachments/assets/4c9038bc-b263-40d1-a06c-87b03cfb1332" />
 
-12 Put in the usname and password you created and click continue 
+12 Put in the username and password you created and click continue 
 
 <img width="1440" alt="OST_17" src="https://github.com/user-attachments/assets/24acb3fa-57cb-468d-9b91-3c23816aeca6" />
 
-13 Confirm you're coneecting the the correct address and click continue. 
+13 Confirm you're connecting to the correct address and click continue. 
 
 <img width="1440" alt="OST_18" src="https://github.com/user-attachments/assets/cc4868d4-a4fe-4143-9cdb-73be2d5bfef0" />
 
-14 Click no for everything (These setting dont matter) and then continue. 
+14 Click no for everything (These settings don’t matter) and then continue. 
 
 <img width="1440" alt="OST_19" src="https://github.com/user-attachments/assets/dd7e08ec-0ba5-4347-b010-5459ca76949c" />
 
@@ -108,15 +108,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_26" src="https://github.com/user-attachments/assets/092c5d48-d096-406d-92b7-ded06b9270da" />
 
-21 Now select your prefered extraction destination and click extract. 
+21 Now select your preferred extraction destination and click extract. 
 
 <img width="1440" alt="OST_27" src="https://github.com/user-attachments/assets/baa8f711-746c-4604-9208-40ad5375ca98" />
 
-22 Now that the folder is extracted you need to install/enable IIS(Internet Information Services) in WIndows with CGI(Common Gateway Interface) 
+22 Now that the folder is extracted you need to install/enable IIS(Internet Information Services) in Windows with CGI(Common Gateway Interface) 
 
 <img width="1440" alt="OST_28" src="https://github.com/user-attachments/assets/a6fcb3be-348d-47bb-b139-f091db1ef2f1" />
 
-23 To do this first opne uo the Control panel from the search bar. 
+23 To do this first open up the Control panel from the search bar. 
 
 <img width="1440" alt="OST_29" src="https://github.com/user-attachments/assets/108e4eb3-8bd1-4b43-b9a3-55b30581e1a8" />
 
@@ -128,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_33" src="https://github.com/user-attachments/assets/4c28c064-9778-4e87-8bf0-ff45efe80ac4" />
 
-26 Scroll down to "Internet Information Service", check the box next to i, and click the addition simble next to it.
+26 Scroll down to "Internet Information Service", check the box next to i, and click the addition symbol next to it.
 
 <img width="1440" alt="OST_34" src="https://github.com/user-attachments/assets/da0c8b54-2aba-4cde-8c85-d73e7087f7f7" />
 
@@ -140,7 +140,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_37" src="https://github.com/user-attachments/assets/cb6f5b87-36d4-4e9c-9d02-27ce8cb17a73" />
 
-29 Now check the box next to CGI to enable Comon Gateway Interface. 
+29 Now check the box next to CGI to enable Common Gateway Interface. 
 
 <img width="1440" alt="OST_38" src="https://github.com/user-attachments/assets/2f787854-6160-4e9e-90a1-d38e2fa71ee4" />
 
