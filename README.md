@@ -128,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_33" src="https://github.com/user-attachments/assets/4c28c064-9778-4e87-8bf0-ff45efe80ac4" />
 
-26 Scroll down to "Internet Information Service", check the box next to i, and click the addition symbol next to it.
+26 Scroll down to "Internet Information Service", check the box next to it, and click the addition symbol next to it.
 
 <img width="1440" alt="OST_34" src="https://github.com/user-attachments/assets/da0c8b54-2aba-4cde-8c85-d73e7087f7f7" />
 
@@ -144,11 +144,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_38" src="https://github.com/user-attachments/assets/2f787854-6160-4e9e-90a1-d38e2fa71ee4" />
 
-30 Click Ok and it will begig to install the web server and when it is done click close.  
+30 Click Ok and it will begin to install the web server and when it is done click close.  
 
 <img width="1440" alt="OST_40" src="https://github.com/user-attachments/assets/9008feac-92a2-4155-8069-a3ad6077ed3b" />
 
-32 Now if you enter 127.0.0.1 into the search bar this web page will load show that CGI and IIS are active. 
+32 Now if you enter 127.0.0.1 into the search bar this web page will load to show that CGI and IIS are active. 
 
 <img width="1440" alt="OST_42" src="https://github.com/user-attachments/assets/6645ff69-5437-42dc-8eb2-0115ffab862f" />
 
@@ -168,7 +168,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_46" src="https://github.com/user-attachments/assets/a4c54807-7d32-40e0-b4a8-ea418b42904d" />
 
-37 CLick Yes to allow to make changes and after it is installed click close. 
+37 Click Yes to allow to make changes and after it is installed click close. 
 
 <img width="1440" alt="OST_47" src="https://github.com/user-attachments/assets/39d80ea2-128a-40e0-84fe-516dc53c1e3a" />
 
@@ -229,7 +229,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_63" src="https://github.com/user-attachments/assets/235781a4-349c-432c-bf25-d0c63878f4c4" />
 
-52 Click VC_redist.x86, agreed to the license, and click install. 
+52 Click VC_redist.x86, agree to the license, and click install. 
 
 <img width="1440" alt="OST_64" src="https://github.com/user-attachments/assets/deb1cdab-119d-4838-8133-d1b8a6f0e3f2" />
 
@@ -281,11 +281,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_78" src="https://github.com/user-attachments/assets/c39b7374-676c-4b3a-a001-8003321bec9a" />
 
-66 Click FInihs and now the Database is ready to go. 
+66 Click Finish and now the Database is ready to go. 
 
 <img width="1440" alt="OST_80" src="https://github.com/user-attachments/assets/fd302fc7-1413-40ea-805f-b6bdf428f671" />
 
-67 Now you need to open ISS up as and Admin. 
+67 Now you need to open IIS up as an Admin. 
    In the Windows search bar and search for Internet Information Services(IIS)
 
 <img width="1440" alt="OST_81" src="https://github.com/user-attachments/assets/1865ee21-96ef-4257-9657-e79e17d5f011" />
