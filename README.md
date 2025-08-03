@@ -294,7 +294,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_83" src="https://github.com/user-attachments/assets/53397af3-6ae7-4f75-878e-760536499a1c" />
 
-69 Now register PHP from within IIS. This will make the webserver aware of the exixtence of PHP on the computer.
+69 Now register PHP from within IIS. This will make the webserver aware of the existence of PHP on the computer.
    Open PHP Manager.
 
 <img width="1440" alt="OST_84" src="https://github.com/user-attachments/assets/e44f09d2-47c3-4787-af41-d49eb04f5948" />
@@ -307,7 +307,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_86" src="https://github.com/user-attachments/assets/8b6a1de5-ce4b-4fd4-8dc9-8a454a313d2e" />
 
-72 Scroll donw to Windows (c:) then click the PHP file created earlier. 
+72 Scroll down to Windows (c:) then click the PHP file created earlier. 
 
 <img width="1440" alt="OST_87" src="https://github.com/user-attachments/assets/9d3dc196-8c53-444e-8cac-f8ed3cfe98c6" />
 
@@ -323,7 +323,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_92" src="https://github.com/user-attachments/assets/ad4084a6-f65f-43b3-8c88-192fb8557bd8" />
 
-77 Click Stop and then Start. This will Reload ISS. 
+77 Click Stop and then Start. This will Reload IIS. 
 
 <img width="1440" alt="OST_93" src="https://github.com/user-attachments/assets/685d20e7-d830-42a5-bbd4-8057c79e7937" />
 
@@ -360,7 +360,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_102" src="https://github.com/user-attachments/assets/7c1c0ff8-cf4b-42a4-a285-fd455ffec5ab" />
 
-87 Right click upload and raname the file to "osTicket".
+87 Right click upload and rename the file to "osTicket".
 
 <img width="1440" alt="OST_104" src="https://github.com/user-attachments/assets/afc4adc4-43aa-458d-8cbd-a810dfe1c9c5" />
 
@@ -368,7 +368,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_105" src="https://github.com/user-attachments/assets/0a589b51-0e50-4c36-acf8-e5e3b50ed8d8" />
 
-89 In osTicket-vm Home stop and start the sever again. 
+89 In osTicket-vm Home stop and start the server again. 
 
 <img width="1440" alt="OST_106" src="https://github.com/user-attachments/assets/c9976918-7639-4011-b92e-6e94abdc3658" />
 
@@ -376,7 +376,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_108" src="https://github.com/user-attachments/assets/9d42f84a-5e40-4eb0-b373-b59800d9adab" />
 
-92 On the right under Manafe Folder click "Browse *:80".
+92 On the right under Manage Folder click "Browse *:80".
 
 <img width="1440" alt="OST_109" src="https://github.com/user-attachments/assets/9835ac3a-a148-4c91-8289-63252f0f56d4" />
 
@@ -458,7 +458,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_130" src="https://github.com/user-attachments/assets/df1ae14a-6068-40e0-979e-ba02233e4a65" />
 
-113 For object name type "Everyone", click "Chenk Name" and "OK". 
+113 For object name type "Everyone", click "Check Name" and "OK". 
 
 <img width="1440" alt="OST_131" src="https://github.com/user-attachments/assets/16197915-eb16-4e66-b352-3cf3ba1c815f" />
 
@@ -466,7 +466,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_133" src="https://github.com/user-attachments/assets/c6c6df4c-72ad-4813-b081-ddbe39c25148" />
 
-115 Your permission entrie should look like this. As long as it does click Apply.
+115 Your permission entries should look like this. As long as it does click Apply.
 
 <img width="1440" alt="OST_135" src="https://github.com/user-attachments/assets/975bf9b4-5c70-4857-bd53-3c7c2c7a2801" />
 
@@ -474,11 +474,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_137" src="https://github.com/user-attachments/assets/c45f3a2c-8b42-44b1-a525-4ace40c55b7a" />
 
-117 Go back to the osTicket Website and click Continue at the bottum. 
+117 Go back to the osTicket Website and click Continue at the bottom. 
 
 <img width="1440" alt="OST_138" src="https://github.com/user-attachments/assets/26216979-4088-406e-8759-51a7977dea4d" />
 
-118 Now fill out the information for Helpdesk Name: and Default email. )This information doesnt need to be specific.)
+118 Now fill out the information for Helpdesk Name: and Default email. )This information doesn't need to be specific.)
 
 <img width="1440" alt="OST_139" src="https://github.com/user-attachments/assets/898a1de2-f0e3-46c5-839b-34c68ffd9d7c" />
  
@@ -519,7 +519,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_148" src="https://github.com/user-attachments/assets/79b8f9d5-29ee-46b1-8b7b-9dc622ebca03" />
 
-128 In the session manager cick new 
+128 In the session manager click new 
 
 <img width="1440" alt="OST_149" src="https://github.com/user-attachments/assets/95b70e91-7946-4d8c-a3be-0547aa194eed" />
 
@@ -561,7 +561,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="OST_161" src="https://github.com/user-attachments/assets/68c3207c-bd35-4c01-95ed-aec035b05764" />
 
-139 There is one ticket created (the install ticket) but this you will veiw and hand tickets. 
+139 There is one ticket created (the install ticket) but this you will view and hand tickets. 
 
 <img width="1440" alt="OST_162" src="https://github.com/user-attachments/assets/ce7854b1-d239-462a-b425-c39ed963c5a2" />
 
