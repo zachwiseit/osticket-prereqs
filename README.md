@@ -12,16 +12,18 @@ This tutorial covers the requirements and installation process for the open-sour
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Windows App
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- macOS Sonama 14.6.1
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Azure Virtual Machines
+- Enable ISS
+- 
 - Item 4
 - Item 5
 
