@@ -24,7 +24,7 @@ This tutorial covers the requirements and installation process for the open-sour
 
 <h2>List of Prerequisites</h2>
 
-- Azure Virtual Machines
+- [osTicket: Ticket Lifecycle Examples](https://github.com/zachwiseit/Azure-VM-Guide.git)
 - Item 4
 - Item 5
 
