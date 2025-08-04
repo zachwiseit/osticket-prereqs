@@ -24,9 +24,8 @@ This tutorial covers the requirements and installation process for the open-sour
 
 <h2>List of Prerequisites</h2>
 
-- [Azure-VM-Guide](https://github.com/zachwiseit/Azure-VM-Guide.git)
-- Item 4
-- Item 5
+- Azure Virtual Machine [Azure-VM-Guide](https://github.com/zachwiseit/Azure-VM-Guide.git)
+-  [osTicket-Installation-Files](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 
 <h2>Installation Steps</h2>
 
