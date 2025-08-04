@@ -22,8 +22,8 @@ This tutorial covers the requirements and installation process for the open-sour
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machines
-- Enable ISS
-- 
+- ISS
+- Install 
 - Item 4
 - Item 5
 
