@@ -15,6 +15,7 @@ This tutorial covers the requirements and installation process for the open-sour
 - Windows App (MacOS)
 - osTicket
 - MySQL
+- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
