@@ -12,7 +12,9 @@ This tutorial covers the requirements and installation process for the open-sour
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Windows App
+- Windows App (MacOS)
+- osTicket
+- MySQL
 
 <h2>Operating Systems Used </h2>
 
@@ -22,8 +24,6 @@ This tutorial covers the requirements and installation process for the open-sour
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machines
-- ISS
-- Install 
 - Item 4
 - Item 5
 
